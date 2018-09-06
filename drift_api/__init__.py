@@ -1,7 +1,7 @@
 """
 This library abstracts communication with and provides a pythonic interface to the Drift API. 
 
-http://help.drift.com/developer-docs/http-api
+https://devdocs.drift.com/docs
 """
 import requests
 
